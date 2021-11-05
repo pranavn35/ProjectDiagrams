@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T13:19:02.237Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="C-cNjfg7SoJv-97W-W4r" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T13:24:00.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="kGwc_XwVwN1CorzXB52e" version="15.6.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="782" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -202,22 +202,22 @@
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qkPl6Q4erSgguj4Jo06E-1" value="fasting_value int NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="qkPl6Q4erSgguj4Jo06E-1" value="fasting_value decimal(3,2) " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeColor=default;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="500" y="520" width="260" height="30" as="geometry">
             <mxRectangle width="260" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qkPl6Q4erSgguj4Jo06E-2" value="post_fasting_value int NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="qkPl6Q4erSgguj4Jo06E-2" value="post_fasting_value decimal(3,2) " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeColor=default;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="500" y="550" width="260" height="30" as="geometry">
             <mxRectangle width="260" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qkPl6Q4erSgguj4Jo06E-3" value="bp_high int NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="qkPl6Q4erSgguj4Jo06E-3" value="bp_high decimal(3,2) " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeColor=default;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="500" y="581" width="260" height="30" as="geometry">
             <mxRectangle width="260" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qkPl6Q4erSgguj4Jo06E-4" value="bp_low int  NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeColor=default;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="qkPl6Q4erSgguj4Jo06E-4" value="bp_low decimal(3,2)  " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;strokeColor=default;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="500" y="612" width="260" height="30" as="geometry">
             <mxRectangle width="260" height="30" as="alternateBounds" />
           </mxGeometry>
