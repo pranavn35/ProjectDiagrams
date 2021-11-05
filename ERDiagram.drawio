@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-05T13:17:26.162Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="83wsKT9ymW_kYaiBhVwX" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-05T13:18:27.576Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="UWknmHLPx53VYyHsFkfp" version="15.6.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="782" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -226,6 +226,9 @@
           <mxGeometry x="500" y="642" width="220" height="30" as="geometry">
             <mxRectangle width="220" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qkPl6Q4erSgguj4Jo06E-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;HealthBot Entity Relationship Diagram&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="50" width="290" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
