@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T13:42:00.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="o0Ht_YMc477-YecA0sSZ" version="15.6.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T13:42:43.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="dcvUHtdEqIfq49PKqxTO" version="15.6.8" type="github">
   <diagram id="E8Qlq9uV38KIObQvXuf5" name="Page-1">
     <mxGraphModel dx="782" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -21,9 +21,6 @@
         </mxCell>
         <mxCell id="xV1kJ7AyNFH7F8mEZFLj-9" value="Trend API&lt;br&gt;(ML Algorithm)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="280" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xV1kJ7AyNFH7F8mEZFLj-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="140" y="40" width="540" height="470" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
