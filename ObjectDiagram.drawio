@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T06:04:42.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="3B09l_TwXcB3fVIopGN-" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T06:40:07.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="9z30t7X1HvDwkzw12Dfc" version="15.7.0" type="github">
   <diagram id="iWZFfSqNQOpmOCwamEa_" name="Page-1">
-    <mxGraphModel dx="782" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="368" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -131,6 +131,9 @@
         </mxCell>
         <mxCell id="5p0G7RZw7-WrblyWdG-P-45" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Previous Reports&lt;br&gt;Report Labels&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=9;" vertex="1" parent="1">
           <mxGeometry x="570" y="580" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5p0G7RZw7-WrblyWdG-P-46" value="&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;b&gt;HealthBot Object Diagram&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="410" y="650" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
