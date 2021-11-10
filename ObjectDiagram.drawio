@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-10T05:40:28.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="haqYPbnqYnaoS3ctq1ae" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-10T05:42:52.243Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="zYyqyg8vr-PYPsOt1afa" version="15.7.0" type="github">
   <diagram id="iWZFfSqNQOpmOCwamEa_" name="Page-1">
     <mxGraphModel dx="782" dy="432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5p0G7RZw7-WrblyWdG-P-1" value="user:User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="305" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5p0G7RZw7-WrblyWdG-P-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5p0G7RZw7-WrblyWdG-P-4" target="5p0G7RZw7-WrblyWdG-P-10">
           <mxGeometry relative="1" as="geometry" />
@@ -35,13 +35,25 @@
           <mxGeometry x="290" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5p0G7RZw7-WrblyWdG-P-10" value="s:Sugar" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="30" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5p0G7RZw7-WrblyWdG-P-13" value="bp:BP" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="5p0G7RZw7-WrblyWdG-P-13" value="b:BP" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5p0G7RZw7-WrblyWdG-P-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5p0G7RZw7-WrblyWdG-P-15" target="5p0G7RZw7-WrblyWdG-P-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5p0G7RZw7-WrblyWdG-P-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5p0G7RZw7-WrblyWdG-P-15" target="5p0G7RZw7-WrblyWdG-P-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5p0G7RZw7-WrblyWdG-P-15" value="trends:Trends" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5p0G7RZw7-WrblyWdG-P-18" value="sugar:SugarTrends" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5p0G7RZw7-WrblyWdG-P-20" value="bp:BPTrends" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
